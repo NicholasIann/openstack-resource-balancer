@@ -1,0 +1,4 @@
+# settings
+# Impostazioni specifiche per il plugin di bilanciamento delle risorse.
+AI_MODEL_PATH="/path/to/ai/model"  # Percorso al modello AI pre-addestrato
+RESOURCE_THRESHOLD=80  # Soglia per l'utilizzo delle risorse (percentuale)
