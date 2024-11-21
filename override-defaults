@@ -1,0 +1,5 @@
+# override-defaults
+# Configurazioni predefinite per il plugin di bilanciamento delle risorse.
+
+ENABLED_SERVICES+=,resource_balancer
+RESOURCE_BALANCER_INTERVAL=60  # Intervallo in secondi per il bilanciamento
